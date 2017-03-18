@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PolakPotrafi</string>
+    <string name="name_input_hint">Name</string>
+    <string name="question_1">Which of the following were Kings of Poland?</string>
+    <string name="answer_1a">Bolesław I Chrobry</string>
+    <string name="answer_1b">Bolesław III Chory</string>
+    <string name="answer_1c">Bolesław II Szczodry</string>
+    <string name="question_2_pick_radio_button">What is capital of Poland</string>
+    <string name="answer_2a">Kraków</string>
+    <string name="answer_2b">Warszawa</string>
+    <string name="answer_2c">Radom</string>
+    <string name="question_3_edit_text">What animal is on the Polish coat-of-arms?</string>
+    <string name="answer_3a">Hint: it has wings and isn\'t a pigeon...</string>
+    <string name="question_4_true_or_false">Poland invented vodka (wódka), true or false?</string>
+    <string name="answer_4a">True</string>
+    <string name="answer_4b">False</string>
+    <string name="button_1_check">Check Score</string>
+    <string name="button_2_share">Share!</string>
+    <string name="button_3_reset">Reset Score</string>
+</resources>
